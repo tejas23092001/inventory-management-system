@@ -157,7 +157,7 @@
 						</div>
 						<div class="form-group col-md-3">
 						  <label for="purchaseDetailsPurchaseDate">Purchase Date<span class="requiredIcon">*</span></label>
-						  <input type="text" class="form-control datepicker" id="purchaseDetailsPurchaseDate" name="purchaseDetailsPurchaseDate" readonly value="2018-05-24">
+						  <input type="text" class="form-control datepicker" id="purchaseDetailsPurchaseDate" name="purchaseDetailsPurchaseDate" readonly value=2022-12-12>
 						</div>
 						<div class="form-group col-md-2">
 						  <label for="purchaseDetailsPurchaseID">Purchase ID</label>
@@ -312,7 +312,7 @@
 						  </div>
 						  <div class="form-group col-md-3">
 							  <label for="saleDetailsSaleDate">Sale Date<span class="requiredIcon">*</span></label>
-							  <input type="text" class="form-control datepicker" id="saleDetailsSaleDate" value="2018-05-24" name="saleDetailsSaleDate" readonly>
+							  <input type="text" class="form-control datepicker" id="saleDetailsSaleDate" value="2022-12-12" name="saleDetailsSaleDate" readonly>
 						  </div>
 					  </div>
 					  <div class="form-row">
@@ -512,11 +512,11 @@
 							  <div class="form-row">
 								  <div class="form-group col-md-3">
 									<label for="saleReportStartDate">Start Date</label>
-									<input type="text" class="form-control datepicker" id="saleReportStartDate" value="2018-05-24" name="saleReportStartDate" readonly>
+									<input type="text" class="form-control datepicker" id="saleReportStartDate" value="2022-12-12" name="saleReportStartDate" readonly>
 								  </div>
 								  <div class="form-group col-md-3">
 									<label for="saleReportEndDate">End Date</label>
-									<input type="text" class="form-control datepicker" id="saleReportEndDate" value="2018-05-24" name="saleReportEndDate" readonly>
+									<input type="text" class="form-control datepicker" id="saleReportEndDate" value="2012-12-12" name="saleReportEndDate" readonly>
 								  </div>
 							  </div>
 							  <button type="button" id="showSaleReport" class="btn btn-dark">Show Report</button>
@@ -532,11 +532,11 @@
 							  <div class="form-row">
 								  <div class="form-group col-md-3">
 									<label for="purchaseReportStartDate">Start Date</label>
-									<input type="text" class="form-control datepicker" id="purchaseReportStartDate" value="2018-05-24" name="purchaseReportStartDate" readonly>
+									<input type="text" class="form-control datepicker" id="purchaseReportStartDate" value="2022-12-12" name="purchaseReportStartDate" readonly>
 								  </div>
 								  <div class="form-group col-md-3">
 									<label for="purchaseReportEndDate">End Date</label>
-									<input type="text" class="form-control datepicker" id="purchaseReportEndDate" value="2018-05-24" name="purchaseReportEndDate" readonly>
+									<input type="text" class="form-control datepicker" id="purchaseReportEndDate" value="2022-12-12" name="purchaseReportEndDate" readonly>
 								  </div>
 							  </div>
 							  <button type="button" id="showPurchaseReport" class="btn btn-dark">Show Report</button>
